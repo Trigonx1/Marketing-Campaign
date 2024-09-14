@@ -1,22 +1,26 @@
-# Power-BI-Historical Plane Crashes 1910-2020 Report
+# Marketing campaign
+Enhancing Campaign Performance in Key Markets
 
 ![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/173084446.0.1415060900.webp)
 
 ##  Introduction
-Aviation has come a long way, transforming from a risky venture in the early 20th century to one of the safest modes of transportation today. However, despite significant advancements in technology and safety, certain challenges remain, particularly those related to human error and regional safety disparities. This project analyzes airplane crashes from 1910 to 2020, aiming to uncover key trends and provide insights that can drive further improvements in aviation safety. With lives at stake, the need for action is urgent, and this analysis serves as both a reflection on past progress and a call to address ongoing vulnerabilities. 
-
+In today's competitive business landscape, companies invest significantly in marketing campaigns to promote their products across various channels. This project aims to analyze the performance of multiple marketing campaigns across different cities, channels, and devices. The goal is to generate actionable insights that can enhance decision-making processes and improve Return on Investment (ROI). 
 
 ## Data Source:
-The data used in this project is a modified dataset known as Airplane Crash;  
-* Airplane Crash Sample Data [kaggle datasets download -d abeperez/historical-plane-crash-data)
-* Modified Dataset used in this Project (https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data)
+The data used in this project is a modified dataset known as Marketing Campaign;  
+* Marketing Campaign Sample Data [ONYX datasets download )
+
+ ### Objectives
+The project utilized datasets to generate insights that empower businesses to make data-driven decisions and engage in strategic planning to maximize ROI. Key areas of analysis include:
+
++ Identifying geographical impacts
++ Assessing channel effectiveness
++ Evaluating conversion values
++ Analyzing impression trends
++ Monitoring ad performance trends
 
 ## Problem Statement
-This project aims to analyze airplane crashes over time, examining trends and identifying key factors that have influenced the frequency and severity of these incidents. By investigating historical data, the project seeks to answer the following key questions:
-1. What are the primary causes of airplane crashes?
-2. What risk factors are most strongly associated with airplane crashes?
-3. How has the crash rate changed over specific time periods?
-4. Which regions have experienced the highest number of fatalities due to airplane crashes?
+The marketing team within the organization faces challenges in determining which campaigns deliver the highest ROI. This analysis provides detailed insights into which cities, channels, and devices contribute most to user engagement, conversions, and revenue generation. The findings are designed to support more effective marketing strategies and resource allocation.
 
 ## Power BI and Analytics Technical Skills:
 + Project Planning and Documentation
@@ -26,7 +30,7 @@ This project aims to analyze airplane crashes over time, examining trends and id
 + Report Design
 + Data Visualization
 + Data Analysis Expression (DAX)
-+ Risk and Analytics Reporting
++ Marketing and Analytics Reporting
 + Performance Optimization
 + Deployment and Power BI Service
 + Feedback and Continuous Improvement
