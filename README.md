@@ -37,33 +37,23 @@ The marketing team within the organization faces challenges in determining which
   
 ## Data Modelling
 
-To optimize the performance of the data model, a DAX table was created using DAX functions. However, the dimension tables are not connected to the corresponding DAX table. The diagram below illustrates the data model.
+To optimize the performance of the data model, a calender  table was created using DAX functions. However, the dimension tables are not connected to the corresponding DAX table. The diagram below illustrates the data model.
 The diagram below shows the data model.  
 <img src="https://github.com/Trigonx1/roughwork/blob/main/marketing%20data%20modelling.png" width=50% height=50%>
 
 ## Report Design and Visualization
 The Report Canvas was designed in PowerBI as canvas background. Here is a sample of the slide in PowerBI   
 <img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/Report%20Design%20and%20Visualization%20airplane%20crash.png" width=50% height=50%>  
-Four pages were created for the analysis. Each page features the following visualizations:
-
-+ Card Visuals: Displaying key metrics such as Total Fatalities, PAX Fatalities, Crew Fatalities, and Other Fatalities.
-+ Line Chart: Used for series analysis to track trends over time.
-+ Donut Chart: Employed for survival comparison to visualize survival rates.
-+ Column and Bar Charts: Utilized for analyzing data by Cause, Crash Site, Operator, and Country.
-
-| Visuals             |  Visuals |
-:-------------------------:|:-------------------------:
-<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/card%201%20airplane.png" width=90% height=90%>|<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/last%20slideairplane%20crash.png" width=40% height=40%> 
-<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/slide1%20airplane.png" width=60% height=60%> |<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/slide%202%20airplane%20crash.png" width=100% height=100%> 
 
 
 ## Analytics and Insights
 The data analysis revealed that;
 
-1. **﻿Trend in Airplane Crashes (1910-2020):**
+1.  **Seasonal Campaign Performance:**
 
-  + Airplane crashes were significantly higher in the early years (1910-1979). However, there was a sharp decline in crashes from 1980 to 2020, with incidents decreasing by 91.55% (a reduction of 2,872 crashes over 40 years).
-  + **Insight**: This trend suggests that advancements in technology, the implementation of stricter safety regulations, and improved training programs have been effective in reducing the number of airplane crashes over time.
+
+  - **Fall** campaign outperformed the others, generating £0.67M in total sales, with the highest impressions at 6.4M. It delivered an additional £200K in revenue compared to Spring and Summer.
+  +  - **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
 
 2. **Primary Causes of Crashes:**
 
