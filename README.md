@@ -60,19 +60,22 @@ The data analysis revealed that;
    
   **Ad Type Performance:**
    - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
+5. **Return on Ad Spend (ROAS):**
+   - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
+   - The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png)
 
-5.  **Platform Breakdown:**
+6.  **Platform Breakdown:**
    + **Facebook** had the highest engagement (220K likes, 50K shares, 26K comments) but the lowest total sales (£412K) and the highest ad spend (£72K), resulting in a lower profit margin.
    + **Instagram** generated the highest profit (£621K) with a good balance between ad spend (£63K) and total sales (£685K), indicating higher efficiency and better ROI.
    + **Pinterest** had the smallest ad spend (£28K) and performed impressively with £606K in profit, proving it to be cost-effective.
 
-6. **Return on Ad Spend (ROAS):**
+7. **Return on Ad Spend (ROAS):**
    - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
    - The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20online.png)
 
-**Monthly Trends:**
+8. **Monthly Trends:**
    - Impressions and engagement steadily increased between March and November, with September-November seeing the highest engagement and conversion.
    - Despite a peak in impressions, conversion effectiveness (engagement to actual conversion) dropped in November, indicating a possible drop in ad effectiveness during that month.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/campaign%20online.png)
