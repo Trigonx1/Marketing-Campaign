@@ -55,10 +55,10 @@ The data analysis revealed that;
    + Mobile generated significantly more impressions (8.8M) compared to desktop (5.8M), indicating a preference for mobile browsing and engagement.
    + Optimizing for mobile will continue to drive better engagement and sales.
 
-4.  **Impressions and Sales by Location:**
+3.  **Impressions and Sales by Location:**
    - **Manchester** led in total sales at £0.59M, followed by Birmingham (£0.51M) and London (£0.47M). These insights could guide regional-focused marketing efforts.
    
-  **Ad Type Performance:**
+ 4. **Ad Type Performance:**
    - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
 5. **Return on Ad Spend (ROAS):**
    - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
