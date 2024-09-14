@@ -1,7 +1,7 @@
 # Marketing campaign
 Enhancing Campaign Performance in Key Markets
 
-![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/173084446.0.1415060900.webp)
+![Slide1](https://github.com/Trigonx1/roughwork/blob/main/melanie-deziel-fSWQPBxqClg-unsplash.jpg)
 
 ##  Introduction
 In today's competitive business landscape, companies invest significantly in marketing campaigns to promote their products across various channels. This project aims to analyze the performance of multiple marketing campaigns across different cities, channels, and devices. The goal is to generate actionable insights that can enhance decision-making processes and improve Return on Investment (ROI). 
