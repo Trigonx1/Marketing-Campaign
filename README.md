@@ -62,18 +62,20 @@ The data analysis revealed that;
    - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png)
 
-  + Most crashes occurred near airports (within 10 km), with these incidents resulting in 13,590 fatalities, accounting for 47.62% of the total fatalities.
-  + **Insight:** The proximity of crashes to airports suggests that critical phases of flight (takeoff and landing) are particularly vulnerable and require enhanced safety measures.
-5. **Survival Rates:**
+5.  **Platform Breakdown:**
+   + **Facebook** had the highest engagement (220K likes, 50K shares, 26K comments) but the lowest total sales (£412K) and the highest ad spend (£72K), resulting in a lower profit margin.
+   + **Instagram** generated the highest profit (£621K) with a good balance between ad spend (£63K) and total sales (£685K), indicating higher efficiency and better ROI.
+   + **Pinterest** had the smallest ad spend (£28K) and performed impressively with £606K in profit, proving it to be cost-effective.
 
-  + The survival rate in airplane crashes was low, with a fatality rate of 72.57%.
-  + **Insight**: The high fatality rate underscores the importance of improving safety measures and emergency response protocols to increase the chances of survival.
-6. **Operator with the Highest Casualties**:
+6. **Return on Ad Spend (ROAS):**
+   - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
+   - The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
+![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20online.png)
 
-  + The Royal Air Force (RAF) had the highest number of casualties, with 2,363 fatalities, accounting for 32.87% of crashes associated with a specific operator.
-  + **Insight**: This statistic may reflect the particular risks associated with military aviation operations.
-
-![ConsolidatedDashboard](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/airplanbe%20crashicon.png)
+**Monthly Trends:**
+   - Impressions and engagement steadily increased between March and November, with September-November seeing the highest engagement and conversion.
+   - Despite a peak in impressions, conversion effectiveness (engagement to actual conversion) dropped in November, indicating a possible drop in ad effectiveness during that month.
+![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/campaign%20online.png)
 
 ## Conclusions
 
