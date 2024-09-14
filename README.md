@@ -56,13 +56,13 @@ The data analysis revealed that;
    + Optimizing for mobile will continue to drive better engagement and sales.
 
 3.  **Impressions and Sales by Location:**
-   - **Manchester** led in total sales at £0.59M, followed by Birmingham (£0.51M) and London (£0.47M). These insights could guide regional-focused marketing efforts.
+  - **Manchester** led in total sales at £0.59M, followed by Birmingham (£0.51M) and London (£0.47M). These insights could guide regional-focused marketing efforts.
    
  4. **Ad Type Performance:**
    - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
-5. **Return on Ad Spend (ROAS):**
-   - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
-   - The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
+5.  **Return on Ad Spend (ROAS):**
+   + Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
+   + The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png)
 
 6.  **Platform Breakdown:**
