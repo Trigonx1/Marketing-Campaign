@@ -39,7 +39,7 @@ The marketing team within the organization faces challenges in determining which
 
 To optimize the performance of the data model, a DAX table was created using DAX functions. However, the dimension tables are not connected to the corresponding DAX table. The diagram below illustrates the data model.
 The diagram below shows the data model.  
-<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/model%20plane%20crash.png" width=50% height=50%>
+<img src="https://github.com/Trigonx1/roughwork/blob/main/marketing%20data%20modelling.png" width=50% height=50%>
 
 ## Report Design and Visualization
 The Report Canvas was designed in PowerBI as canvas background. Here is a sample of the slide in PowerBI   
