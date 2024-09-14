@@ -47,20 +47,19 @@ The data analysis revealed that;
 1.  **Seasonal Campaign Performance:**
 
 
-  - **Fall** campaign outperformed the others, generating £0.67M in total sales, with the highest impressions at 6.4M. It delivered an additional £200K in revenue compared to Spring and Summer.
- - **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
+  + **Fall** campaign outperformed the others, generating £0.67M in total sales, with the highest impressions at 6.4M. It delivered an additional £200K in revenue compared to Spring and Summer.
+  + **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
 
 2. **Device Usage:**
    + Mobile generated significantly more impressions (8.8M) compared to desktop (5.8M), indicating a preference for mobile browsing and engagement.
    + Optimizing for mobile will continue to drive better engagement and sales.
 
-3. **Geographic Distribution of Crashes:**
-
-  + The total number of crashes varied across five countries, ranging from 848 to 6,804.
-  + The United States experienced the highest number of crashes, with 6,804 incidents, representing 52.66% of the total fatalities.
-  + **Insight**: The concentration of crashes in specific regions highlights the need for localized safety interventions.
-  
-4. **Crash Sites and Fatalities:**
+3.  **Impressions and Sales by Location:**
+   + **Manchester** led in total sales at £0.59M, followed by Birmingham (£0.51M) and London (£0.47M). These insights could guide regional-focused marketing efforts.
+   
+  **Ad Type Performance:**
+   + **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
+![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png)
 
   + Most crashes occurred near airports (within 10 km), with these incidents resulting in 13,590 fatalities, accounting for 47.62% of the total fatalities.
   + **Insight:** The proximity of crashes to airports suggests that critical phases of flight (takeoff and landing) are particularly vulnerable and require enhanced safety measures.
