@@ -114,57 +114,26 @@ This marketing campaign has shown promising results, particularly in the Fall se
    - Focus on improving the engagement-to-conversion rate, particularly for high-impression months like October and November, where engagement was strong but conversion rates fell.
 
 **By addressing these recommendations, the aviation industry can continue to improve safety outcomes and reduce the risk of future airplane crashes.**
-##  <a name='WhatShouldbeDone'></a>What Should be Done
-1. Invest in Advanced Human Factor Training:
-
-  + **Action**: Develop and implement comprehensive training programs focused on reducing human error in aviation. This includes simulation-based training, fatigue management, and stress-response training for pilots and crew members.
-  + **Outcome**: Improved decision-making and situational awareness among aviation personnel, leading to a significant reduction in human error-related crashes..
-2. Implement Regional Safety Initiatives:
-
-  + **Action**: Launch targeted safety programs in regions with higher crash rates and fatalities, such as enhanced air traffic control systems, stricter regulations, and localized safety audits.
-  + **Outcome**: A decrease in the regional concentration of crashes, leading to more uniform safety standards worldwide
-3. Enhance Safety During Critical Flight Phases:
-
-  + **Action**: Focus on improving safety protocols during takeoff and landing phases. This could involve better runway management, improved aircraft design, and advanced pilot training for these critical moments.
-  + **Outcome**: Fewer crashes occurring near airports, reducing overall fatalities and increasing passenger confidence in these phases of flight.
-4. Improve Emergency Response and Survival Rates:
-
-  + **Action**: Upgrade emergency response systems, including faster crash detection, advanced fire suppression technologies, and more efficient evacuation procedures.
-  + **Outcome**: Higher survival rates in the event of a crash, mitigating the loss of life and improving overall aviation safety.
-5. Develop Specialized Safety Measures for Military Aviation:
-
-  + **Action**: Introduce stricter safety protocols and specialized training for military operators to address the unique risks associated with military aviation.
-  + **Outcome**: A reduction in military aviation-related casualties and crashes, enhancing the safety of military operations.
-
-##  <a name='WhatWillHappenifActionisDelayed'></a>What Will Happen if Action is Delayed
-1. Increased Human Error-Related Crashes:
-
-+ If Delayed: Without immediate investment in advanced training, human error will continue to be a leading cause of crashes. This could result in preventable accidents, leading to loss of life and undermining public trust in aviation safety.
-2.Persistent Regional Disparities in Crash Rates:
-
-+ If Delayed: Failure to implement regional safety initiatives could perpetuate higher crash rates in certain areas, particularly in regions like the United States. This could lead to continued disparities in aviation safety, with some regions experiencing disproportionately higher risks.
-3. Continued Risk During Critical Flight Phases:
-
-+ If Delayed: Without a focus on improving safety during takeoff and landing, the most hazardous phases of flight will remain vulnerable. This could result in continued high numbers of crashes near airports, with associated fatalities.
-4. Low Survival Rates in Crashes:
-
-+ If Delayed: Delaying improvements in emergency response and survival protocols could result in continued high fatality rates. This would mean that passengers and crew have a lower chance of surviving a crash, leading to greater loss of life.
-5. Increased Military Aviation Casualties:
-
-+ If Delayed: Without specialized safety measures for military aviation, the high casualty rate associated with military operations will persist. This could lead to unnecessary loss of life and weaken military operational readiness.
-
-## In summary, timely implementation of these actions is crucial to continuing the positive trend in aviation safety. Delays could result in preventable accidents, increased fatalities, and persistent safety disparities across regions and types of aviation operations.  
+##  <a name='Actionablesteps'></a>### Actionable Steps
+1. Increase budget allocation for mobile ads across Instagram and Pinterest for higher ROI.
+2. Expand the use of discount-based advertising campaigns, particularly in the Fall season, to capitalize on consumer spending patterns.
+3. Reevaluate Facebook's ad strategy, focusing on cost-cutting or more targeted campaigns to improve profit margins.
+4. Ensure that future campaigns, particularly during September-November, focus on maximizing conversion rates, especially for months that historically show high impressions but low conversions.
 
 
-The safety of countless lives hangs in the balance. The data is clear: while we've made tremendous strides in reducing airplane crashes, the persistence of human error and regional disparities reminds us that our work is far from complete. Every day that we delay action is another day we risk lives that could be saved.
+##  <a name='ConsequencesofInaction'></a>Consequences of Inaction
+- **Failure to optimize mobile campaigns** may result in missing out on a significant portion of the audience that engages primarily through mobile devices, thus losing potential sales and impressions.
+- **Not capitalizing on Fall’s seasonal impact** could mean missing opportunities for maximum revenue generation, as historical data indicates Fall as the highest-performing season.
+- **Continuing with Facebook’s current ad spend without optimization** may lead to wasted budget, as engagement is not translating into profits efficiently, hurting overall profitability.
+- **Lack of discount campaigns** would result in lower sales, as customers are evidently more responsive to discounts, and ignoring this may lead to a lower conversion rate and overall revenue.
 
-Imagine the tragedy of knowing that lives were lost because we hesitated. Families torn apart, dreams shattered—all because the necessary steps were not taken in time. We owe it to every passenger, every crew member, and every loved one waiting at home to act decisively and swiftly.
 
-Let this not be a moment of regret but a turning point. The time to act is now, before another preventable tragedy occurs. Let us commit to making the skies safer for everyone, everywhere.
+By taking the necessary actions, the company can build on its current successes and address inefficiencies, ensuring long-term growth and profitability.
 
 ## Deployment to Power BI Service
 This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it.
-[Plane Crashes 1910-2020](https://app.powerbi.com/groups/me/reports/8c0d8422-e3ea-41d5-ac08-8df5519ebd8e/42703b5c706ce714ea00?experience=power-bi)  
+[https://app.powerbi.com/groups/me/reports/fccf91f5-7f02-47d9-8641-a71b1ebbc72e/3d944840ee567e422c0e?experience=power-bi)  
+
 
 
 
