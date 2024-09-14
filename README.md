@@ -61,8 +61,8 @@ The data analysis revealed that;
  4. **Ad Type Performance:**
      - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
 5.  **Return on Ad Spend (ROAS):**
-   + Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
-   + The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
+     + Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
+     + The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png)
 
 6.  **Platform Breakdown:**
@@ -114,7 +114,7 @@ This marketing campaign has shown promising results, particularly in the Fall se
    - Focus on improving the engagement-to-conversion rate, particularly for high-impression months like October and November, where engagement was strong but conversion rates fell.
 
 **By addressing these recommendations, the aviation industry can continue to improve safety outcomes and reduce the risk of future airplane crashes.**
-##  <a name='Actionablesteps'></a>### Actionable Steps
+##  <a name='Actionablesteps'></a> Actionable Steps
 1. Increase budget allocation for mobile ads across Instagram and Pinterest for higher ROI.
 2. Expand the use of discount-based advertising campaigns, particularly in the Fall season, to capitalize on consumer spending patterns.
 3. Reevaluate Facebook's ad strategy, focusing on cost-cutting or more targeted campaigns to improve profit margins.
