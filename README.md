@@ -41,11 +41,6 @@ To optimize the performance of the data model, a calender  table was created usi
 The diagram below shows the data model.  
 <img src="https://github.com/Trigonx1/roughwork/blob/main/marketing%20data%20modelling.png" width=50% height=50%>
 
-## Report Design and Visualization
-The Report Canvas was designed in PowerBI as canvas background. Here is a sample of the slide in PowerBI   
-<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/Report%20Design%20and%20Visualization%20airplane%20crash.png" width=50% height=50%>  
-
-
 ## Analytics and Insights
 The data analysis revealed that;
 
@@ -53,13 +48,12 @@ The data analysis revealed that;
 
 
   - **Fall** campaign outperformed the others, generating £0.67M in total sales, with the highest impressions at 6.4M. It delivered an additional £200K in revenue compared to Spring and Summer.
-  +  - **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
+ - **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
 
-2. **Primary Causes of Crashes:**
+2. **Device Usage:**
+   + Mobile generated significantly more impressions (8.8M) compared to desktop (5.8M), indicating a preference for mobile browsing and engagement.
+   + Optimizing for mobile will continue to drive better engagement and sales.
 
-  + Human factors were identified as the leading cause of airplane crashes, with 9,926 incidents. This is 1,483.09% higher than the category with the fewest incidents, "Other causes," which accounted for 627 crashes.
-  + **Insight**: Despite technological advances, human error remains a significant concern in aviation safety.
-  
 3. **Geographic Distribution of Crashes:**
 
   + The total number of crashes varied across five countries, ranging from 848 to 6,804.
