@@ -47,8 +47,8 @@ The data analysis revealed that;
 1.  **Seasonal Campaign Performance:**
 
 
-  + **Fall** campaign outperformed the others, generating £0.67M in total sales, with the highest impressions at 6.4M. It delivered an additional £200K in revenue compared to Spring and Summer.
-  + **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
+    + **Fall** campaign outperformed the others, generating £0.67M in total sales, with the highest impressions at 6.4M. It delivered an additional £200K in revenue compared to Spring and Summer.
+    + **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
 
 2. **Device Usage:**
    
@@ -56,19 +56,19 @@ The data analysis revealed that;
    + Optimizing for mobile will continue to drive better engagement and sales.
 
 3.  **Impressions and Sales by Location:**
-  - **Manchester** led in total sales at £0.59M, followed by Birmingham (£0.51M) and London (£0.47M). These insights could guide regional-focused marketing efforts.
+     - **Manchester** led in total sales at £0.59M, followed by Birmingham (£0.51M) and London (£0.47M). These insights could guide regional-focused marketing efforts.
    
  4. **Ad Type Performance:**
-   - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
+     - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
 5.  **Return on Ad Spend (ROAS):**
    + Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
    + The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png)
 
 6.  **Platform Breakdown:**
-   + **Facebook** had the highest engagement (220K likes, 50K shares, 26K comments) but the lowest total sales (£412K) and the highest ad spend (£72K), resulting in a lower profit margin.
-   + **Instagram** generated the highest profit (£621K) with a good balance between ad spend (£63K) and total sales (£685K), indicating higher efficiency and better ROI.
-   + **Pinterest** had the smallest ad spend (£28K) and performed impressively with £606K in profit, proving it to be cost-effective.
+     + **Facebook** had the highest engagement (220K likes, 50K shares, 26K comments) but the lowest total sales (£412K) and the highest ad spend (£72K), resulting in a lower profit margin.
+     + **Instagram** generated the highest profit (£621K) with a good balance between ad spend (£63K) and total sales (£685K), indicating higher efficiency and better ROI.
+     + **Pinterest** had the smallest ad spend (£28K) and performed impressively with £606K in profit, proving it to be cost-effective.
 
 7. **Return on Ad Spend (ROAS):**
    - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
@@ -76,8 +76,8 @@ The data analysis revealed that;
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20online.png)
 
 8. **Monthly Trends:**
-   - Impressions and engagement steadily increased between March and November, with September-November seeing the highest engagement and conversion.
-   - Despite a peak in impressions, conversion effectiveness (engagement to actual conversion) dropped in November, indicating a possible drop in ad effectiveness during that month.
+     - Impressions and engagement steadily increased between March and November, with September-November seeing the highest engagement and conversion.
+     - Despite a peak in impressions, conversion effectiveness (engagement to actual conversion) dropped in November, indicating a possible drop in ad effectiveness during that month.
 ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/campaign%20online.png)
 
 
