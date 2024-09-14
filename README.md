@@ -41,6 +41,9 @@ To optimize the performance of the data model, a calender  table was created usi
 The diagram below shows the data model.  
 <img src="https://github.com/Trigonx1/roughwork/blob/main/marketing%20data%20modelling.png" width=50% height=50%>
 
+## Full Dashboard below|
+ ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png) ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20online.png) ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/campaign%20online.png)
+
 ## Analytics and Insights
 The data analysis revealed that;
 
