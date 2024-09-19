@@ -91,6 +91,7 @@ The data analysis revealed that;
      - Impressions and engagement steadily increased between March and November, with September-November seeing the highest engagement and conversion.
 
 ![](https://github.com/Trigonx1/roughwork/blob/main/impression%20by%20engagement.png)
+
      - Despite a peak in impressions, conversion effectiveness (engagement to actual conversion) dropped in November, indicating a possible drop in ad effectiveness during that month.
 ![](https://github.com/Trigonx1/roughwork/blob/main/monthly%20con%20and%20eng.png)
 
