@@ -85,7 +85,7 @@ The data analysis revealed that;
 7. **Return on Ad Spend (ROAS):**
    - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
    - The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
-![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20online.png)
+![](https://github.com/Trigonx1/roughwork/blob/main/roas%20roi.png)
 
 8. **Monthly Trends:**
      - Impressions and engagement steadily increased between March and November, with September-November seeing the highest engagement and conversion.
