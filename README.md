@@ -52,7 +52,8 @@ The data analysis revealed that;
 
     + **Fall** campaign outperformed the others, generating £0.67M in total sales, with the highest impressions at 6.4M. It delivered an additional £200K in revenue compared to Spring and Summer.
     + **Summer** campaign had the lowest performance, with only £3.5M impressions and £0.45M in sales, lagging behind both Spring and Fall.
- ![](https://github.com/Trigonx1/roughwork/blob/main/Total%20sales%20by%20campaign.png)
+
+ ![](https://github.com/Trigonx1/roughwork/blob/main/Total%20sales%20by%20campaign.png) ![](https://github.com/Trigonx1/roughwork/blob/main/Impression%20by%20campaign.png)
 
 
 2. **Device Usage:**
