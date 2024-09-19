@@ -95,7 +95,7 @@ The data analysis revealed that;
 ![](https://github.com/Trigonx1/roughwork/blob/main/impression%20by%20engagement.png) ![](https://github.com/Trigonx1/roughwork/blob/main/monthly%20con%20and%20eng.png)
 
 ## Full Dashboard below
- ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png) ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/campaign%20online.png) ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/campaign%20online.png)
+ ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png) ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/campaign%20online.png) ![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20online.png)
 
 
 ### **Conclusion:**
