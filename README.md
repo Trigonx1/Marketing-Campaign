@@ -61,6 +61,8 @@ The data analysis revealed that;
    + Mobile generated significantly more impressions (8.8M) compared to desktop (5.8M), indicating a preference for mobile browsing and engagement.
    + Optimizing for mobile will continue to drive better engagement and sales.
 
+ ![](https://github.com/Trigonx1/roughwork/blob/main/Impression%20by%20device.png) 
+
 3.  **Impressions and Sales by Location:**
      - **Manchester** led in total sales at £0.59M, followed by Birmingham (£0.51M) and London (£0.47M). These insights could guide regional-focused marketing efforts.
    
