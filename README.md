@@ -70,6 +70,8 @@ The data analysis revealed that;
    
  4. **Ad Type Performance:**
      - **Discount ads** dominated with £0.98M in sales compared to collection ads (£0.59M). The insight indicates that discounts are more effective in driving sales, accounting for 62% of the total revenue.
+
+     ![](https://github.com/Trigonx1/roughwork/blob/main/ads%20by%20total%20sales.png) 
 5.  **Return on Ad Spend (ROAS):**
      + Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
      + The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
