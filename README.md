@@ -82,6 +82,8 @@ The data analysis revealed that;
      + **Instagram** generated the highest profit (£621K) with a good balance between ad spend (£63K) and total sales (£685K), indicating higher efficiency and better ROI.
      + **Pinterest** had the smallest ad spend (£28K) and performed impressively with £606K in profit, proving it to be cost-effective.
 
+  ![](https://github.com/Trigonx1/roughwork/blob/main/social%20media%20likes%20andfollow.png)
+
 7. **Return on Ad Spend (ROAS):**
    - Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
    - The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
