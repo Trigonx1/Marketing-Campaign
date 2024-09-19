@@ -75,7 +75,7 @@ The data analysis revealed that;
 5.  **Return on Ad Spend (ROAS):**
      + Overall ROAS was strong at **10.6** across all platforms, with a **960.8% ROI**, maintaining profitability.
      + The campaigns had a consistent ad spend strategy with minor monthly fluctuations, and September peaked in terms of ROAS at **14.4**.
-![](https://github.com/Trigonx1/Marketing-Campaign/blob/main/marketing%20campaign.png)
+![](https://github.com/Trigonx1/roughwork/blob/main/roas%20roi.png)
 
 6.  **Platform Breakdown:**
      + **Facebook** had the highest engagement (220K likes, 50K shares, 26K comments) but the lowest total sales (£412K) and the highest ad spend (£72K), resulting in a lower profit margin.
